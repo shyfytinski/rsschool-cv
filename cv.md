@@ -4,7 +4,7 @@
  * Discord: Говорящая Голова#2234
  * E-mail: bosssheva93@gmail.com  
  # About me: 
- ## Мy goal is to get normal money and become a guru in programming  
+ ## Мy goal is to get normal money and become a guru in programming  !!!
  
  # Skills: 
  * HTML 
