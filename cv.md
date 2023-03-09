@@ -6,3 +6,10 @@
  # About me: 
  ## Мy goal is to get normal money and become a guru in programming  
  
+ # Skills: 
+ * HTML 
+ * CSS 
+ * PHP 
+ * 1C  
+ # Experience:
+  ## No development experience yet  # English: ## ~A2
